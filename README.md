@@ -1,7 +1,7 @@
 
 <span align="center">
 
-##  Hellooo Helloo World! 👋 
+##  WorkShop da AlgaLog 👋 
 
 </span>
 
